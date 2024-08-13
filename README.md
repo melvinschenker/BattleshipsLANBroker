@@ -1,6 +1,6 @@
 # Battleships LAN Broker
 * -> [Main repo with documentation](https://github.com/melvinschenker/BattleshipsLAN)
-* -> Work in progress
+* -> Work in progress!
 ## Concept
 ![Concept drawio](https://github.com/user-attachments/assets/61f32890-cbd7-4144-9099-3301f10e4e05)
 ## CI/CD
