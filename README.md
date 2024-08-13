@@ -1,4 +1,4 @@
-# Battleships LAN Server
+# Battleships LAN Broker
 * -> [Main repo with documentation](https://github.com/melvinschenker/BattleshipsLAN)
 * -> Work in progress
 ## Concept
